@@ -3,7 +3,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div className='FULLSCREEN bg-gray-600'>
+    <div className='FULLSCREEN bg-gradient-to-r from-cyan-500 to-blue-500 ...'>
       test
     </div>
   )
