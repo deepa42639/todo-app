@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.CENTER {
+    @apply flex justify-center items-center;
+  }
+  
+  .FULLSCREEN {
+    @apply h-screen w-screen;
+  }

@@ -1,0 +1,16 @@
+
+
+.SIB:hover~label{
+
+    @apply opacity-100 left-[68px] 
+    
+  }
+  
+  .CENTER {
+    @apply flex justify-center items-center;
+  }
+  
+  .FULLSCREEN{
+  
+    @apply h-screen w-screen
+  }
